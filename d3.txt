@@ -1,0 +1,3 @@
+String name = "Javed"
+int rollNo = 25
+String branch = "IT"
