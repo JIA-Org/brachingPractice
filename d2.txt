@@ -1,0 +1,13 @@
+//story 121
+int a = 10
+int b = 12
+int c = a + b
+s.o.p(c)
+
+//story 122
+int a = 20
+int b = 24
+int c = a * b
+
+
+
