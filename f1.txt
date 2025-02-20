@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 kliyan Mbappe score hattrick against Man-City.
 Tchouameni yesterday at defensive mid field position.
+=======
+This is f1 file.
+hey there.
+Yesterday Night Madrid Won by 3-1 against City.
+>>>>>>> ea83a8806db2cd458fae0d92d50f96bd48fb9bb4
